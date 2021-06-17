@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    
+}
+
+
+input{
+    width: 100%;
+}
+P{
+    font-weight: 900;
+}
+button{
+    background-color: blue;
+    border: 3x black;
+    color: chartreuse;
+}
+
+#people{
+    color: black;
+}
+#blue{
+    color: blue;
+}
